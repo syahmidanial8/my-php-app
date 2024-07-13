@@ -1,0 +1,13 @@
+{
+    "name": "syahmidanial888/my-php-app",
+    "description": "A simple PHP web application",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Syahmidanial888\\MyPhpApp\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
